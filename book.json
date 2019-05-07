@@ -53,7 +53,7 @@
 			"copyrightColor": "#666",
 			"utcOffset": "8",
 			"style": "normal",
-			"noPowered": ""
+			"noPowered": false
 		},
 		"hide-element": {
 			"elements": [".gitbook-link"]
