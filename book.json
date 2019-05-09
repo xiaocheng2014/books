@@ -24,7 +24,7 @@
 		"github",
 		"emphasize",
 		"splitter",
-		"page-copyright",
+		"tbfed-pagefooter",
 		"sectionx",
 		"klipse",
 		"flexible-alerts",
@@ -42,18 +42,10 @@
 			"weibo": true,
 			"all": ["qq", "qzone", "weibo"]
 		},
-		"page-copyright": {
-			"description": "modified at",
-			"signature": "人生而自由，却无往不在枷锁中",
-			"wisdom": "辉",
-			"format": "YYYY-MM-dd hh:mm:ss",
-			"copyright": "Copyright &#169; Cleon 小城",
-			"timeColor": "#666",
-			"copyrightColor": "#666",
-			"utcOffset": "8",
-			"style": "normal",
-			"noPowered": true,
- 			"isShowQRCode": false
+		"tbfed-pagefooter": {
+			"copyright": "Copyright &#169 Cleon",
+			"modify_label": "modified at",
+			"modify_format": "YYYY-MM-DD HH:mm:ss"
 		},
 		"hide-element": {
 			"elements": [".gitbook-link"]
