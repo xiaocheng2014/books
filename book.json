@@ -52,7 +52,8 @@
 			"copyrightColor": "#666",
 			"utcOffset": "8",
 			"style": "normal",
-			"noPowered": true 
+			"noPowered": true,
+ 			"isShowQRCode": false
 		},
 		"hide-element": {
 			"elements": [".gitbook-link"]
